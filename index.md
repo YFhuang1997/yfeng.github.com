@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Yifeng Huang
 
 You can use the [editor on GitHub](https://github.com/YFhuang1997/yfeng.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
